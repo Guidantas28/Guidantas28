@@ -3,12 +3,6 @@
 - 🌱 Atualmente estou aprendendo JavaScript e React
 - 🔥 Estudante de Desenvolvimento de Sistemas na ETEC
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Guidantas28&show_icons=true&theme=vision-friendly-dark" alt="Guidantas28 stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guidantas28&layout=compact&theme=vision-friendly-dark" alt="Guidantas28 most languages"/>
-</p>
 
 
 ### Contatos:
