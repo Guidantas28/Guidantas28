@@ -3,9 +3,11 @@
 - 🌱 Atualmente estou aprendendo JavaScript e React
 - 🔥 Estudante de Desenvolvimento de Sistemas na ETEC
 
-###GitHub Stats
+### GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=Guidantas28&theme=dark&show_icons=true
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img aling="center" src="https://github-readme-stats.vercel.app/api?username=Guidantas28&theme=dark&show_icons=true"></img>
+</a>
 
 
 ### Contatos:
