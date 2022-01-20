@@ -3,6 +3,9 @@
 - 🌱 Atualmente estou aprendendo JavaScript e React
 - 🔥 Estudante de Desenvolvimento de Sistemas na ETEC
 
+###GitHub Stats
+
+https://github-readme-stats.vercel.app/api?username=Guidantas28a&theme=dark&show_icons=true
 
 
 ### Contatos:
