@@ -5,7 +5,7 @@
 
 ###GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=Guidantas28a&theme=dark&show_icons=true
+https://github-readme-stats.vercel.app/api?username=Guidantas28&theme=dark&show_icons=true
 
 
 ### Contatos:
