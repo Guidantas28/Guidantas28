@@ -2,6 +2,7 @@
 
 - 🌱 Atualmente estou aprendendo JavaScript e React
 - 🔥 Estudante de Desenvolvimento de Sistemas na ETEC
+- 👨‍💻 Estudante do Ignite da Rocketseat
 
 ### GitHub Stats
 
