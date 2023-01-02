@@ -1,8 +1,8 @@
 ### Olá, me chamo Guilherme
 
-- 🌱 Atualmente estou aprendendo JavaScript e React
-- 🔥 Estudante de Desenvolvimento de Sistemas na ETEC
-- 👨‍💻 Estudante do Ignite da Rocketseat
+- 💻 Atualmente estou aprendendo JavaScript, React e Next.JS
+- 🔥 Técnico em Desenvolvimento de Sistemas na ETEC
+- 👨‍💻 Foco em Desenvolvimento Full Stack 
 
 ### GitHub Stats
 
