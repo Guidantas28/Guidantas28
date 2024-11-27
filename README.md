@@ -1,6 +1,6 @@
 ### Olá, me chamo Guilherme
 
-- 💻 Atualmente estou aprendendo JavaScript, React e Next.JS
+- 💻 Atualmente estou aprendendo Java e SpringBoot
 - 🔥 Técnico em Desenvolvimento de Sistemas na ETEC
 - 👨‍💻 Foco em Desenvolvimento Full Stack 
 
