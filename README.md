@@ -1,6 +1,6 @@
 ### Olá, me chamo Guilherme
 
-- 💻 Atualmente estou aprendendo Java e SpringBoot
+- 💻 Estudante de Análise e Desenvolvimento de Sistemas
 - 🔥 Técnico em Desenvolvimento de Sistemas na ETEC
 - 👨‍💻 Foco em Desenvolvimento Full Stack 
 
